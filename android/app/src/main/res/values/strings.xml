@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">OtaWay</string>
+    <string name="title_activity_main">OtaWay</string>
+    <string name="package_name">com.otaway.app</string>
+    <string name="custom_url_scheme">com.otaway.app</string>
+</resources>
